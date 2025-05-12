@@ -1,2 +1,5 @@
 # github-exercise
-git/GitHub exercise for beginners
+
+## ブランチの練習
+
+- sera
